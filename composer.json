@@ -1,0 +1,19 @@
+{
+    "name": "intoy/hebat-psr7",
+    "description": "Hebat Library Psr7",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Intoy\\HebatPsr7\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "intoynto",
+            "email": "intoynto@gmail.com"
+        }
+    ],
+    "require": {
+        "psr/http-message": "^1.0"
+    }
+}
